@@ -11,3 +11,9 @@
 ``` r
 myVar = variable
 ```
+### Adding a list
+
+- [ ] Turn on GitHub Pages
+- [ ] Ourline my portfolio
+- [ ] Introduce myself to the world
+
